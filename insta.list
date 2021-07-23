@@ -1,11 +1,3 @@
-# ----------------------------------------------------------
-# PI-HOLE SOCIAL BLOCKLIST: INSTAGRAM
-# ----------------------------------------------------------
-# Source: https://raw.githubusercontent.com/crpietschmann/pi-hole-blocklist/main/social-media/blocklist-social-instagram.txt
-# Copyright (c) 2020 Chris Pietschmann
-# License: MIT License
-# ----------------------------------------------------------
-
 0.0.0.0 instagram.com
 0.0.0.0 www.instagram.com
 0.0.0.0 i.instagram.com
